@@ -5,7 +5,7 @@ import Home from './Component/Home';
 import { productsData } from './Component/productsData'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
-import React, { useState } from 'react';
+import React from 'react';
 
 function App() {
   const handleClick = index => () => {
