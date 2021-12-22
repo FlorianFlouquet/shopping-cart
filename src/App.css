@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans';
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: "Work Sans";
+    src: local("/fonts/worksans-bold.ttf") format("truetype");
+}

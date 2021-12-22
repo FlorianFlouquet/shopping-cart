@@ -1,0 +1,35 @@
+nav {
+    display: flex;
+    justify-content: center;
+    min-height: 13vh;
+    background-color: rgb(236, 27, 27);
+    color: white;
+}
+
+#nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+
+.nav-items {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+li {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#logo {
+    height: 60px;
+    margin-top: 5px;
+}
+
+.cart-not-empty {
+    color: rgb(214, 212, 71);
+}
