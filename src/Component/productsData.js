@@ -23,13 +23,13 @@ export const productsData = [
             "title": "Nintendo Switch - Gris",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img": switch_gris,
-	        "prix": "269,99"
+	        "prix": "269.99"
         },
         {
             "title": "Nintendo Switch - Bleu / Rouge",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : switch_rouge_bleu,
-	        "prix": "269,99"
+	        "prix": "269.99"
         }]
 },
 {
@@ -39,31 +39,31 @@ export const productsData = [
             "title": "Nintendo Switch Lite - Turquoise",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : switchlite_turquoise,
-               "prix": "199,99"
+               "prix": "199.99"
         },
         {
             "title": "Nintendo Switch Lite - Jaune",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : switchlite_jaune,
-            "prix": "199,99"
+            "prix": "199.99"
         },
         {
             "title": "Nintendo Switch Lite - Gris",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : switchlite_gris,
-            "prix": "199,99"        
+            "prix": "199.99"        
         },
         {
             "title": "Nintendo Switch Lite - Bleu",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : switchlite_bleu,
-            "prix": "199,99"
+            "prix": "199.99"
         },
         {
             "title": "Nintendo Switch Lite - Corail",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : switchlite_corail,
-            "prix": "199,99"
+            "prix": "199.99"
         }],
 },
 {
@@ -73,13 +73,13 @@ export const productsData = [
             "title": "Nintendo Switch OLED - Noir",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : switcholed_noir,
-            "prix": "319,99"
+            "prix": "319.99"
         },
         {
             "title": "Nintendo Switch OLED - Blanc",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : switcholed_blanc,
-            "prix": "319,99"
+            "prix": "319.99"
         }],
 }, 
 {
@@ -89,40 +89,40 @@ export const productsData = [
             "title": "Manette Pro",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : procontroller,
-            "prix": "64,99"
+            "prix": "64.99"
         },
         {
             "title": "Joy Con - Rouge",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : joycon_rouge,
-            "prix": "64,99"
+            "prix": "64.99"
         },
         {
             "title": "Joy Con - Bleu",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : joycon_bleu,
-            "prix": "64,99"
+            "prix": "64.99"
         },
         {
             "title": "Carte SD SanDisk - 64Go",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : sandisk_64go,
-            "prix": "33,00"
+            "prix": "33.00"
         },{
             "title": "Carte SD SanDisk - 128Go",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : sandisk_128go,
-            "prix": "65,00"
+            "prix": "65.00"
         },{
             "title": "Carte SD SanDisk - 256Go",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : sandisk_256go,
-            "prix": "93,99"
+            "prix": "93.99"
         },{
             "title": "Carte SD SanDisk - 512Go",
             "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "img" : sandisk_512go,
-            "prix": "149,99"
+            "prix": "149.99"
         }
     ]
 }]
